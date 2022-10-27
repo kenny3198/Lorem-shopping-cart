@@ -19,7 +19,7 @@
     }
  }
  }
- <!-- //bye// -->
+
  </script>
  
  <style lang="scss">
